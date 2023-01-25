@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  data:
+    mongodb:
+      #uri: mongodb+srv://paneladev:password@host/paneladev
+      host: localhost
+      port: 27017
+      database: paneladev
+      #username: admin
+      #password: admin
